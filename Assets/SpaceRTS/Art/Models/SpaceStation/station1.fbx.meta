@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 578c6563c16b39f429a80d2d680efeb8
+timeCreated: 1495683925
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: dockingarm.001_Mesh.003
+    100002: dockingarm.002_Mesh.003
+    100004: dockingarm_Mesh.003
+    100006: dockingbay.001_Mesh.012
+    100008: dockingbay.002_Mesh
+    100010: dockingbay_Mesh.012
+    100012: elevator1_Mesh.008
+    100014: elevator3_Mesh.008
+    100016: elevator_2_Mesh.008
+    100018: main_SketchUp.001_ID10
+    100020: //RootNode
+    400000: dockingarm.001_Mesh.003
+    400002: dockingarm.002_Mesh.003
+    400004: dockingarm_Mesh.003
+    400006: dockingbay.001_Mesh.012
+    400008: dockingbay.002_Mesh
+    400010: dockingbay_Mesh.012
+    400012: elevator1_Mesh.008
+    400014: elevator3_Mesh.008
+    400016: elevator_2_Mesh.008
+    400018: main_SketchUp.001_ID10
+    400020: //RootNode
+    2300000: dockingarm.001_Mesh.003
+    2300002: dockingarm.002_Mesh.003
+    2300004: dockingarm_Mesh.003
+    2300006: dockingbay.001_Mesh.012
+    2300008: dockingbay.002_Mesh
+    2300010: dockingbay_Mesh.012
+    2300012: elevator1_Mesh.008
+    2300014: elevator3_Mesh.008
+    2300016: elevator_2_Mesh.008
+    2300018: main_SketchUp.001_ID10
+    3300000: dockingarm.001_Mesh.003
+    3300002: dockingarm.002_Mesh.003
+    3300004: dockingarm_Mesh.003
+    3300006: dockingbay.001_Mesh.012
+    3300008: dockingbay.002_Mesh
+    3300010: dockingbay_Mesh.012
+    3300012: elevator1_Mesh.008
+    3300014: elevator3_Mesh.008
+    3300016: elevator_2_Mesh.008
+    3300018: main_SketchUp.001_ID10
+    4300000: dockingarm.001_Mesh.003
+    4300002: dockingarm.002_Mesh.003
+    4300004: dockingarm_Mesh.003
+    4300006: dockingbay.001_Mesh.012
+    4300008: dockingbay.002_Mesh
+    4300010: dockingbay_Mesh.012
+    4300012: elevator1_Mesh.008
+    4300014: elevator3_Mesh.008
+    4300016: elevator_2_Mesh.008
+    4300018: main_SketchUp.001_ID10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

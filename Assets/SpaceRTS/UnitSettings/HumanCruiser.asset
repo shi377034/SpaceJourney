@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a04db7cb75aac8438515083e7e5dc66, type: 3}
+  m_Name: HumanCruiser
+  m_EditorClassIdentifier: 
+  userName: Raptor
+  uiImage: {fileID: 21300000, guid: 30839aae48c707440a11c5a2fa747c08, type: 3}
+  buildTime: 6
+  gameplayPrefab: {fileID: 1602247721388848, guid: d5cd1404148b97141a2a34c5afbece0c,
+    type: 2}
+  visualPrefab: {fileID: 1205276703261400, guid: ccf2ded1cf909d54191463c4aee9f9f2,
+    type: 2}
+  placementPrefab: {fileID: 0}
+  radius: 0.6
+  buildables: []
+  requiresBuildLocation: 0
+  removeOnInterrupt: 1
+  buildDistance: 2
+  movementData:
+    maxSpeed: 6
+    rotSpeed: 70
+    accel: 2
+    maneuverFactor: 0.07
+    fullStopFactor: 0.95
+    rollFactor: 0.61
+    rollSpeed: 50

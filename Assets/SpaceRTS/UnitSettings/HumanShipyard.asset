@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ccf16860e1705d4f804f446334b62cc, type: 3}
+  m_Name: HumanShipyard
+  m_EditorClassIdentifier: 
+  userName: Shipyard
+  uiImage: {fileID: 21300000, guid: d66cd841d1e8aa248b0eae2a9d05572f, type: 3}
+  buildTime: 15
+  gameplayPrefab: {fileID: 1316260066751562, guid: dcf29a756bdd3ff498a880a1b1a1fd78,
+    type: 2}
+  visualPrefab: {fileID: 1837812159503560, guid: 80107757754f27d4a9f6aef6b965118f,
+    type: 2}
+  placementPrefab: {fileID: 1704871349809206, guid: 67ae040cf9f358a458a61f22c7cc816d,
+    type: 2}
+  radius: 2.4
+  buildables:
+  - {fileID: 11400000, guid: 82e17236f69277d448b5f3b6981fe1a9, type: 2}
+  - {fileID: 11400000, guid: 2fbe8b20bb09b834082cc883460be32b, type: 2}
+  - {fileID: 11400000, guid: c28e415569f433e4cad39318791d62ea, type: 2}
+  requiresBuildLocation: 0
+  removeOnInterrupt: 1
+  buildDistance: 1.2

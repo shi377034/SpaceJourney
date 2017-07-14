@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a04db7cb75aac8438515083e7e5dc66, type: 3}
+  m_Name: HumanFreighter
+  m_EditorClassIdentifier: 
+  userName: HumanFreighter
+  uiImage: {fileID: 21300000, guid: e8620aebe99d3084c9712e632f2078d9, type: 3}
+  buildTime: 10
+  gameplayPrefab: {fileID: 1602247721388848, guid: d5cd1404148b97141a2a34c5afbece0c,
+    type: 2}
+  visualPrefab: {fileID: 1940354871403110, guid: 57f5f68106dbe1545866790da34c3225,
+    type: 2}
+  placementPrefab: {fileID: 0}
+  radius: 1
+  buildables: []
+  requiresBuildLocation: 0
+  removeOnInterrupt: 1
+  buildDistance: 2
+  movementData:
+    maxSpeed: 2
+    rotSpeed: 60
+    accel: 1
+    maneuverFactor: 0.008
+    fullStopFactor: 0.95
+    rollFactor: 0.5
+    rollSpeed: 40

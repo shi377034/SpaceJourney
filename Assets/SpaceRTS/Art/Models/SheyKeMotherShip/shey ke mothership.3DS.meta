@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: ffe01747864cd5b4cb8a55de89df88de
+timeCreated: 1495664594
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Box03
+    100002: Box31
+    100004: Box66
+    100006: Box67
+    100008: bridge
+    100010: communica0
+    100012: communica1
+    100014: communicat
+    100016: Cylinder00
+    100018: Cylinder01
+    100020: Cylinder02
+    100022: Cylinder03
+    100024: Cylinder04
+    100026: Cylinder05
+    100028: Cylinder06
+    100030: Cylinder07
+    100032: Cylinder08
+    100034: Cylinder27
+    100036: Cylinder28
+    100038: Cylinder29
+    100040: Cylinder30
+    100042: Cylinder31
+    100044: front_stu0
+    100046: front_stuf
+    100048: //RootNode
+    100050: ship
+    100052: 'structure '
+    100054: structure0
+    400000: Box03
+    400002: Box31
+    400004: Box66
+    400006: Box67
+    400008: bridge
+    400010: communica0
+    400012: communica1
+    400014: communicat
+    400016: Cylinder00
+    400018: Cylinder01
+    400020: Cylinder02
+    400022: Cylinder03
+    400024: Cylinder04
+    400026: Cylinder05
+    400028: Cylinder06
+    400030: Cylinder07
+    400032: Cylinder08
+    400034: Cylinder27
+    400036: Cylinder28
+    400038: Cylinder29
+    400040: Cylinder30
+    400042: Cylinder31
+    400044: front_stu0
+    400046: front_stuf
+    400048: //RootNode
+    400050: ship
+    400052: 'structure '
+    400054: structure0
+    2300000: Box03
+    2300002: Box31
+    2300004: Box66
+    2300006: Box67
+    2300008: bridge
+    2300010: communica0
+    2300012: communica1
+    2300014: communicat
+    2300016: Cylinder00
+    2300018: Cylinder01
+    2300020: Cylinder02
+    2300022: Cylinder03
+    2300024: Cylinder04
+    2300026: Cylinder05
+    2300028: Cylinder06
+    2300030: Cylinder07
+    2300032: Cylinder08
+    2300034: Cylinder27
+    2300036: Cylinder28
+    2300038: Cylinder29
+    2300040: Cylinder30
+    2300042: Cylinder31
+    2300044: front_stu0
+    2300046: front_stuf
+    2300048: ship
+    2300050: 'structure '
+    2300052: structure0
+    3300000: Box03
+    3300002: Box31
+    3300004: Box66
+    3300006: Box67
+    3300008: bridge
+    3300010: communica0
+    3300012: communica1
+    3300014: communicat
+    3300016: Cylinder00
+    3300018: Cylinder01
+    3300020: Cylinder02
+    3300022: Cylinder03
+    3300024: Cylinder04
+    3300026: Cylinder05
+    3300028: Cylinder06
+    3300030: Cylinder07
+    3300032: Cylinder08
+    3300034: Cylinder27
+    3300036: Cylinder28
+    3300038: Cylinder29
+    3300040: Cylinder30
+    3300042: Cylinder31
+    3300044: front_stu0
+    3300046: front_stuf
+    3300048: ship
+    3300050: 'structure '
+    3300052: structure0
+    4300000: ship
+    4300002: Cylinder01
+    4300004: Cylinder03
+    4300006: Cylinder04
+    4300008: Cylinder05
+    4300010: Cylinder06
+    4300012: Cylinder07
+    4300014: bridge
+    4300016: communicat
+    4300018: communica0
+    4300020: communica1
+    4300022: Box31
+    4300024: Cylinder00
+    4300026: Box03
+    4300028: front_stuf
+    4300030: front_stu0
+    4300032: Cylinder27
+    4300034: 'structure '
+    4300036: Cylinder08
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
